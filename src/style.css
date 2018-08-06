@@ -1,7 +1,16 @@
-.banner {
+.banner{
   width: 100%;
   height: auto;
   background-size: contain;
+}
+
+.logo{
+  background-size: contain;
+}
+
+.logo-align {
+  margin: auto;
+  width: 10%;
 }
 
 .nav{
